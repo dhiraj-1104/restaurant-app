@@ -13,7 +13,7 @@ void main() {
         "User-Agent":
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101",
         "auth":
-            "YOUR_AUTH_TOKEN",
+            "Y8FyZBClwGhrOYaq1sOi5Kr+vqgI9ZUlRWuqzVaqljqSzejGXrxD158TZ0fSbJWbugCpYXu8w6PeRSpZjgZJ+Vur1B0ktJDByxpgVdweAJ+4CO1YQ5DltkgFjk+TmgmTmFNc/IwFAVGBtu2kCeWVZUf7t5A/dKkQUdCBdfkJaVkYHQRbM+ekxvpVLWsrBp8wLsM12O2UJiy01EMd7MlUUyErdT9K9+047LTgMTZXs5fiKkPP1GJKx7BjAjMIIF7Mf3k1Z6BQZ0bv/+orMLaGYbpoRvClPdEpRV23pZfeTqE=sessiontoken",
       },
       child: const MyApp(),
     ),
@@ -27,9 +27,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
+      title: 'Restaurant App',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
-      home: RestaurantListScreen(),
+      home:RestaurantListScreen(),
     );
   }
 }

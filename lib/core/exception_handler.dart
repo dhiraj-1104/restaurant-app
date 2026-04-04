@@ -12,7 +12,7 @@ class ExceptionHandler {
     }else if(exception is TimeoutException){
       return "Request timed out. Please try again.";
     }else{
-       return "Unexpected error occurred: ${exception.toString()}";
+       return "Unexpected error occurred: Please try again after some time}";
     }
   }
 }
