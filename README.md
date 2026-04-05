@@ -26,3 +26,8 @@ A restaurant app project.
   <img src="assets/images/details_screen2.jpg" width="250"/>
   <img src="assets/images/details_screen3.jpg" width="250"/>
 </p>
+
+## Demo Video
+
+- Demo Link :- https://drive.google.com/file/d/168TO-sqlezglCEL8PPi-X4ZkoTtJ50pe/view?usp=drive_link
+- APK Link :- https://drive.google.com/file/d/1NNk38b6zZpSBE6mW2uMdwFtNQmWvWjFB/view?usp=drive_link
