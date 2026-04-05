@@ -13,3 +13,16 @@ A restaurant app project.
 - Target SDK: 34
 - Build Variant: release
 
+## Screenshots
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/images/search_screen.jpg" width="250"/>
+  <img src="assets/images/screen.jpg" width="250"/>
+  <img src="assets/images/no_restaurant_found_screen.jpg" width="250"/>
+  <img src="assets/images/error_handling_screenshot.jpg" width="250"/>
+   <img src="assets/images/details_screen1.jpg" width="250"/>
+  <img src="assets/images/details_screen2.jpg" width="250"/>
+  <img src="assets/images/details_screen3.jpg" width="250"/>
+</p>
